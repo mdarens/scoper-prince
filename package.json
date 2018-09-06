@@ -1,7 +1,7 @@
 {
-  "name": "css-scoper",
-  "version": "1.1.0",
-  "description": "A polyfill for scoped HTML style elements",
+  "name": "css-scoper-prince",
+  "version": "0.0.1",
+  "description": "A polyfill for scoped HTML style elements, adapted to work with Prince",
   "main": "scoper.js",
   "dependencies": {},
   "devDependencies": {
@@ -13,17 +13,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomaspark/scoper.git"
+    "url": "git+https://github.com/mdarens/scoper-prince.git"
   },
   "keywords": [
     "scoped",
     "css",
-    "polyfill"
+    "polyfill",
+    "prince",
+    "princexml"
   ],
   "author": "Thomas Park",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thomaspark/scoper/issues"
+    "url": "https://github.com/mdarens/scoper-prince/issues"
   },
-  "homepage": "https://github.com/thomaspark/scoper#readme"
+  "homepage": "https://github.com/mdarens/scoper-prince#readme"
 }
