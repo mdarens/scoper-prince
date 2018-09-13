@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "^2.2.5",
-    "jsdom": "3.1.2"
+    "jsdom": "12.x"
   },
   "scripts": {
     "test": "mocha"

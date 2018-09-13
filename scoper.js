@@ -127,3 +127,7 @@ function scoperRestart() {
 
 	document.addEventListener("DOMContentLoaded", scoperProcess);
 }());
+
+if (typeof exports !== "undefined") {
+	exports.scoper = scoper;
+}
